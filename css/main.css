@@ -774,6 +774,10 @@ video {
   height: 6rem;
 }
 
+.h-12 {
+  height: 3rem;
+}
+
 .w-24 {
   width: 6rem;
 }
@@ -860,6 +864,10 @@ video {
 
 .w-80 {
   width: 20rem;
+}
+
+.w-12 {
+  width: 3rem;
 }
 
 .flex-row {
@@ -1185,6 +1193,14 @@ video {
 
 .pr-20 {
   padding-right: 5rem;
+}
+
+.pt-4 {
+  padding-top: 1rem;
+}
+
+.pt-2 {
+  padding-top: 0.5rem;
 }
 
 .text-left {
