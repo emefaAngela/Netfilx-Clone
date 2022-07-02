@@ -10,7 +10,11 @@ module.exports = {
     },
     extend: {
       colors:{
-        red:'#E50914'
+        red:'#E50914',
+        ash:'#95A5A6'
+      },
+      backgroundImage:{
+        'hero-picture':"url('/images/netflix.jpg')"
       }
     },
   },
